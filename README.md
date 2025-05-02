@@ -1,7 +1,5 @@
 # Big-Mart-Sales-Prediction
 
-Presentation Link: [Big-Mart Sales Prediction.pptx](https://github.com/user-attachments/files/19707943/Big-Mart.Sales.Prediction.pptx)
-
 
 # Objective
 
